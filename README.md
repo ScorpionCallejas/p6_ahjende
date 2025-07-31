@@ -34,7 +34,7 @@ Este proyecto es una solución moderna y modular para gestionar archivos en una 
 - **Bootstrap 5.3**
 - **jQuery 3.6**
 - **AJAX con `$.post()`**
-- **JavaScript Vanilla**
+- **JavaScript**
 
 ---
 
